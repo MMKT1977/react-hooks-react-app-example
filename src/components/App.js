@@ -9,10 +9,8 @@ function App() {
     <div className="App">
       <h1>Now</h1>
       <p className="App-intro">
-        In React apps, we write JSX - it looks like HTML, and uses a lot of HTML
-        syntax. JSX lets us include JavaScript functions right along with the
-        HTML, and also allows us to add in components, which are separate,
-        self-contained chunks of JSX.
+        In This lesson we are learning about the structure of a react app,
+        its components and how import and export statements are used.
       </p>
       <ExampleComponent />
       <TestComponent />
